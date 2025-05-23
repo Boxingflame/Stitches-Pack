@@ -1,0 +1,13 @@
+name = "The Orb Of Dominance Mod"
+filename = "orb_of_dominance-1.2.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BH2FxdYX/versions/y9lNc14Y/orb_of_dominance-1.2.1-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "9daba4ec731fc7dad939c9cb2475b4a6b6c2c4e3"
+
+[update]
+[update.modrinth]
+mod-id = "BH2FxdYX"
+version = "y9lNc14Y"

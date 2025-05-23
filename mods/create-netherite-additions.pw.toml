@@ -1,0 +1,13 @@
+name = "Create Stuff & Netherite Additions"
+filename = "create_sna-1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/777GhN41/versions/y83JTl2A/create_sna-1.1.6.jar"
+hash-format = "sha1"
+hash = "36334d5c3dd9ea10d88fe243ed84c8bfd28374b4"
+
+[update]
+[update.modrinth]
+mod-id = "777GhN41"
+version = "y83JTl2A"

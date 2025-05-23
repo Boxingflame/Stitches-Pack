@@ -1,0 +1,13 @@
+name = "CIT Reforged"
+filename = "citreforged-mc1.20.1-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N6u7qVnG/versions/WjwxMOaa/citreforged-mc1.20.1-1.0.2.jar"
+hash-format = "sha1"
+hash = "ae4235a6295e02c377b369e8b3b08fe0cdaa18da"
+
+[update]
+[update.modrinth]
+mod-id = "N6u7qVnG"
+version = "WjwxMOaa"

@@ -1,0 +1,13 @@
+name = "Create Ore Excavation Plus"
+filename = "create_ore_excavation_plus-0.2.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZHocuC06/versions/WHvecoEX/create_ore_excavation_plus-0.2.3-1.20.1.jar"
+hash-format = "sha1"
+hash = "10354dae6c7055b36e8447ec98d985354179952c"
+
+[update]
+[update.modrinth]
+mod-id = "ZHocuC06"
+version = "WHvecoEX"

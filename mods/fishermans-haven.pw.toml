@@ -1,0 +1,13 @@
+name = "Fisherman's Haven"
+filename = "fishermans_haven-2.0605-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cNrIBpSY/versions/I6yaszN1/fishermans_haven-2.0605-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "537c6efbb5b6dd91c3da374d0a87c3b1f110b3d2"
+
+[update]
+[update.modrinth]
+mod-id = "cNrIBpSY"
+version = "I6yaszN1"

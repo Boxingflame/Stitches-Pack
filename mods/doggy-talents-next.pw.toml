@@ -1,0 +1,13 @@
+name = "Doggy Talents Next"
+filename = "DoggyTalentsNext-1.20.1-1.18.45.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oXgmplvv/versions/LjQGa9AL/DoggyTalentsNext-1.20.1-1.18.45.jar"
+hash-format = "sha1"
+hash = "84092e2ef172190d2e422299a0ecd3b697673f4d"
+
+[update]
+[update.modrinth]
+mod-id = "oXgmplvv"
+version = "LjQGa9AL"

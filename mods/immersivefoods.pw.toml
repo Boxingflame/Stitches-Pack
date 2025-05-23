@@ -1,0 +1,13 @@
+name = "Immersive Foods"
+filename = "immersivefoods-1.20.1-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PmBbeOJ1/versions/ivdqvrb1/immersivefoods-1.20.1-0.0.1.jar"
+hash-format = "sha1"
+hash = "2a8974bb3208382c1716391951b6d1de30f11183"
+
+[update]
+[update.modrinth]
+mod-id = "PmBbeOJ1"
+version = "ivdqvrb1"

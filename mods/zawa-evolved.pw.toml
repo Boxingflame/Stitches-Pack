@@ -1,0 +1,13 @@
+name = "Zoo and Wild Animals: Evolved"
+filename = "zawa-1.20.1-1.1.0-IntelligentAnimals3-alpha1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pv2NaDba/versions/F56x5Vv1/zawa-1.20.1-1.1.0-IntelligentAnimals3-alpha1.jar"
+hash-format = "sha1"
+hash = "862c34382e912e0fde88b06c10c5ec48722244d6"
+
+[update]
+[update.modrinth]
+mod-id = "Pv2NaDba"
+version = "F56x5Vv1"

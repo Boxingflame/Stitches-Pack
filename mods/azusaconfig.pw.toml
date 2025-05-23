@@ -1,0 +1,13 @@
+name = "AzusaConfig"
+filename = "AzusaConfig-forge-0.1.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/12LahGY4/versions/iMnyzCUj/AzusaConfig-forge-0.1.1%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "55d9b0820edbc65f6b2dec1eb89b31e568404e92"
+
+[update]
+[update.modrinth]
+mod-id = "12LahGY4"
+version = "iMnyzCUj"

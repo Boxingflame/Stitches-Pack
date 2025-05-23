@@ -1,0 +1,13 @@
+name = "Create Logistics"
+filename = "create_logistics-1.20.1-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RsV38LRE/versions/5kzUHfVm/create_logistics-1.20.1-0.0.1.jar"
+hash-format = "sha1"
+hash = "5a818dd4b6252f858119279bcdc222f3cf1cde39"
+
+[update]
+[update.modrinth]
+mod-id = "RsV38LRE"
+version = "5kzUHfVm"

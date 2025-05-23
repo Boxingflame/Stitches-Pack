@@ -1,0 +1,13 @@
+name = "Stitches Pack"
+author = "Stitches"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e8f8116aa523c7cc8873d7d62114fe4760ad077f32e011b74594931ea35215f3"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

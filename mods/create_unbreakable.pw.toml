@@ -1,0 +1,13 @@
+name = "Create: Unbreakable Tools"
+filename = "CreateUnbreakableTools-1.7+forge-1.20.1-build.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bzzq7Auj/versions/QbPGewXb/CreateUnbreakableTools-1.7%2Bforge-1.20.1-build.9.jar"
+hash-format = "sha1"
+hash = "9ebb9c8e5466eef9ec4e208af9dc22fb38b001b5"
+
+[update]
+[update.modrinth]
+mod-id = "bzzq7Auj"
+version = "QbPGewXb"

@@ -1,0 +1,13 @@
+name = "Dragon Drops Elytra"
+filename = "dragondropselytra-1.20.1-3.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DPkbo3dg/versions/VjJgkK28/dragondropselytra-1.20.1-3.5.jar"
+hash-format = "sha1"
+hash = "cea7d4ab1077a3a767050ba9a45e28e6612ab3bd"
+
+[update]
+[update.modrinth]
+mod-id = "DPkbo3dg"
+version = "VjJgkK28"

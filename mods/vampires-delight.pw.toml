@@ -1,0 +1,13 @@
+name = "Vampire's Delight"
+filename = "VampiresDelight-1.20.1-0.1.7d.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Vo2deFq/versions/a7l11fbz/VampiresDelight-1.20.1-0.1.7d.jar"
+hash-format = "sha1"
+hash = "2f765a83b93b6b8b517281ea9c1da33a4082a937"
+
+[update]
+[update.modrinth]
+mod-id = "9Vo2deFq"
+version = "a7l11fbz"
