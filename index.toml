@@ -235,16 +235,6 @@ hash = "673b81b2090bdce49d7743e8c4b3e8587d1106ad6d032f23148c39f7787a0bac"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "84a0f647a6e00bda3cf95aad23bfbd123402f5dd7ca46a3b4b4116a77f656068"
-metafile = true
-
-[[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "119a7506c39a296fc3cd7d6f874c08b2664082811ba95daf2b98f27f398fb980"
 metafile = true
