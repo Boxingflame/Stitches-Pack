@@ -970,6 +970,11 @@ hash = "90ccd028bd31118b9dda5020f49a1c9d46979455064b5f0dfb253512fcd34368"
 metafile = true
 
 [[files]]
+file = "mods/server-tab-info.pw.toml"
+hash = "0d5c9487a5fcffa4eff7cf88033b7d736f945d858ff2e641265d15e0ef8f59d0"
+metafile = true
+
+[[files]]
 file = "mods/simplecore-api.pw.toml"
 hash = "5782d95d92557b22c76b2733af8f442903cadea93ec44662a9d3688633cb5d36"
 metafile = true
@@ -1243,6 +1248,10 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "f4317b7e3936074a1eb5530d5883e4da7105b18edd8f89b0e5064b354ec7bff8"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "c7d8bc51e69dae14c56c709e7846082a30a038bbd7eb385463ec611763514905"
 
 [[files]]
 file = "resourcepacks/animated-door.pw.toml"
