@@ -1251,7 +1251,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c7d8bc51e69dae14c56c709e7846082a30a038bbd7eb385463ec611763514905"
+hash = "b0c585f0b3b00ab774bb7ef81e060c031c0289b5ff9ea5ed4d70862e3b5d1a51"
 
 [[files]]
 file = "resourcepacks/animated-door.pw.toml"
@@ -1264,6 +1264,36 @@ hash = "6247c9131523a9edb45c7b575fd4ea8ed8adf742ce8defc1dfb3e0ea352dce8c"
 metafile = true
 
 [[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "39fb167ebfa9d8de02150c261c3f14f775083f8ad2ad4b7225308bc81d6d18e2"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "d30923bf5cfb4988a372508cb461d8077609d79a38d0b170785804c7ad15f16e"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "31a556b016efbadaa2a84c88d1b79fd71d94ad4303d7e5c4a1874698ba3ea58e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "db3eac9aaadd5d732180a0dd7ae8a322c07386259a971b177f4f2fef50a29c6f"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "c8cf0916fb1562623afbe55df9d8451097fb15e11a09121cdadd714c982a4494"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "6eab1c7b54fe8538afd2e260f44ea46316ad6edf8132f5699deb2b1a4584ebd7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "dc13593289b6ec367c2e41a11662366ce25125e55446a753510db2760235fb2e"
 metafile = true
