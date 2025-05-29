@@ -1,0 +1,13 @@
+name = "Mob Limiter"
+filename = "MobLimiter-1.20.1-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/GBTZ8qN6/versions/g8icbA63/MobLimiter-1.20.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "690d4f83fd0f504df8d4e86a54d1bb8817d81ad424539d81b0ae50b25cf5effcff49adce226a47e6d87ecfb7d93347400e83f03e705882c9725da45a94e4dfe4"
+
+[update]
+[update.modrinth]
+mod-id = "GBTZ8qN6"
+version = "g8icbA63"
