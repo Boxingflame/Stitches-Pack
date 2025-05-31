@@ -25,6 +25,11 @@ file = "mods/.toml"
 hash = "7165e1854d27fbe4448eaee9c797d40a5039548f6b127c79558e8da8c47592e6"
 
 [[files]]
+file = "mods/aardvarks-weird-zoology.pw.toml"
+hash = "e63b2d1f9c7ff1e46085270014ea9742eb2105db17f82e499c2c78a34829b400"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "505595b98fe41c5e7af4eccbe786514478d1f41684672c938c89d05074fc923f"
 metafile = true
@@ -587,11 +592,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
-metafile = true
-
-[[files]]
-file = "mods/fishermans-haven.pw.toml"
-hash = "b9d22d30a9af2a6a309e8ead8221d14935684f38c040f8e06a3510376779838f"
 metafile = true
 
 [[files]]

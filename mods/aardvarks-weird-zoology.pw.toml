@@ -1,0 +1,13 @@
+name = "Aardvark's Weird Zoology"
+filename = "aardvarksweirdzoology-1.10.4 - The Just Enough Update.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T77vKC8y/versions/6Ri2FbFm/aardvarksweirdzoology-1.10.4%20-%20The%20Just%20Enough%20Update.jar"
+hash-format = "sha512"
+hash = "5f83b4699c4883d67ed4c4e09cdfe2b485154835e504e89587baff3ec2bc3bff801782a626161343ba7d3190a51577aac3a53fc5a2f38a1edf8092e1c884db1a"
+
+[update]
+[update.modrinth]
+mod-id = "T77vKC8y"
+version = "6Ri2FbFm"
