@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-tab-info.pw.toml"
-hash = "30fef9a6a79ace081e63578cc4b186b81d33e9858bfec6c7567fc2bf3164618b"
+hash = "0d5c9487a5fcffa4eff7cf88033b7d736f945d858ff2e641265d15e0ef8f59d0"
 metafile = true
 
 [[files]]
