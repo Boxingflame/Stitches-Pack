@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "7c5ae4adfb514315d9abb8c4e3f19601948731622b765cab939d7cf1e5c633f1"
+hash = "d9eb998782172b86753deb463e08885f4da3fa149532886293d6f30e3651dd66"
 metafile = true
 
 [[files]]
@@ -520,11 +520,6 @@ hash = "f19036e5d8c20c236bd8b2305417cc20c29c4055a52b71a43ecf1b2fb2b11d94"
 metafile = true
 
 [[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "f4be99e59304626405c54db04bc16654ef9d59388d60a632fe9d51295afc134d"
-metafile = true
-
-[[files]]
 file = "mods/emi-ores.pw.toml"
 hash = "8fc4b55baba1359ba44e8db62f8553a5be3a2f2e8a92311c1d2dc1b1e2e10aca"
 metafile = true
@@ -547,6 +542,11 @@ metafile = true
 [[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "8a9f2ca24bc82f4cd3fb8167ca0fb88412f3496e9d77702b983a6e9cbd3d2640"
+metafile = true
+
+[[files]]
+file = "mods/etched.pw.toml"
+hash = "bd2b62e4397f57220ddf4d862b5c6d87de3192b4ff4da14e9f5d00029ed13c48"
 metafile = true
 
 [[files]]
@@ -737,6 +737,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "c7845eba145859bb89696a91fdd1c1490e064ee1342c3301aeb2949e358ba4ac"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "f618ae45f80532409d1c2b5a473320f54619540580c3f51160f44927ade0ee6a"
 metafile = true
 
 [[files]]
@@ -971,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-tab-info.pw.toml"
-hash = "0d5c9487a5fcffa4eff7cf88033b7d736f945d858ff2e641265d15e0ef8f59d0"
+hash = "30fef9a6a79ace081e63578cc4b186b81d33e9858bfec6c7567fc2bf3164618b"
 metafile = true
 
 [[files]]
@@ -987,6 +992,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "264de662a3aa18ddd73d3d883c4a04a7242e0a933aa84b672e1483ccad49f786"
+metafile = true
+
+[[files]]
+file = "mods/small-bats.pw.toml"
+hash = "d8b423900ba28665a8b2d2bc930c729d42f76d93db72d47e15dcce41da0d4b06"
 metafile = true
 
 [[files]]
@@ -1120,6 +1130,11 @@ hash = "c18b0bb144da16c6831621b778540d485d5cbdc7e95af8548e38e1b50e75405d"
 metafile = true
 
 [[files]]
+file = "mods/vampirism-integrations.pw.toml"
+hash = "7975a423fee3c103ff44069da15c59aeb391d0cded8e91e0b1ee7da7a1c5a3d2"
+metafile = true
+
+[[files]]
 file = "mods/vampirism.pw.toml"
 hash = "89ba9d08151b3e6968f5814ae3041675c799539f4781222bca6860ceb1526efa"
 metafile = true
@@ -1157,6 +1172,11 @@ metafile = true
 [[files]]
 file = "mods/waystones_and_create.pw.toml"
 hash = "2e41cef0ef14ea3dca787d115ee84fa9df7b27077aded71c06e10449e02c497b"
+metafile = true
+
+[[files]]
+file = "mods/werewolves.pw.toml"
+hash = "c05db5c93bc8efae079947e6b3714205c5d64f72cf160eb5aac44db4635b99a8"
 metafile = true
 
 [[files]]
