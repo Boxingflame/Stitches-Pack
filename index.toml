@@ -890,11 +890,6 @@ hash = "0f23f679fd20155fd68566322be23375737e4509f6c7e011f3984188beac3625"
 metafile = true
 
 [[files]]
-file = "mods/natures-spirit.pw.toml"
-hash = "9748c66f730e71c3d5209a77043452e786456037a9116fdcb4efff339ec491ba"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
