@@ -1096,7 +1096,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-luminous-mod.pw.toml"
-hash = "bd7db3fce17913127a918da5706bac32afb2a6313cf3bebaf114516a70fa7584"
+hash = "12f2b6eb8a065f6d8970f4232b01a252cd364e9a013ad7af5654b1a60d33e780"
 metafile = true
 
 [[files]]

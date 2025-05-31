@@ -1,13 +1,13 @@
 name = "Luminous"
-filename = "Luminous V1.5.1 - Forge 1.20.1.jar"
+filename = "Luminous V1.5.2 - Forge 1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HT2F6lNL/versions/n8t5hR0F/Luminous%20V1.5.1%20-%20Forge%201.20.1.jar"
-hash-format = "sha1"
-hash = "c866cd735e4a98f7123264568535faffd979fc23"
+url = "https://cdn.modrinth.com/data/HT2F6lNL/versions/9AlwdRNc/Luminous%20V1.5.2%20-%20Forge%201.20.1.jar"
+hash-format = "sha512"
+hash = "e38e736d5e9ad8381534062278379d6f54ad331d004145384e72df5390258d3428f48a8fa561f0f8ec86988c4b0e72547e9af1bb1699f01be6f8ca93d6564f74"
 
 [update]
 [update.modrinth]
 mod-id = "HT2F6lNL"
-version = "n8t5hR0F"
+version = "9AlwdRNc"
