@@ -859,11 +859,6 @@ hash = "1a9d54cef041c4c6e16d3eee37f2310bebaace8ee33dfa25fbab7df38f4d23ca"
 metafile = true
 
 [[files]]
-file = "mods/mob-limiter.pw.toml"
-hash = "1b9abba452568841fc412627030aeb1189253265402e75a543108e626b460ab6"
-metafile = true
-
-[[files]]
 file = "mods/modern-ae2-additions.pw.toml"
 hash = "e4d2d1c5d377774df68a76603509681fe27bfc165624ee04b3b4a933ded31e74"
 metafile = true
