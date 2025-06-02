@@ -1,0 +1,34 @@
+{
+  // Vanilla despawn settings
+  // mode: "vanilla" (default rules), "custom" (set min/max distance), "disabled" (persistent mobs)
+  "vanilla_despawn": {
+    "mode": "custom",
+    "min_distance": 64.0, // Min distance (blocks) to despawn (for "custom" mode)
+    "max_distance": 128.0 // Max distance (blocks) to despawn (for "custom" mode)
+  },
+
+  // World-wide mob limits
+  // enabled: true/false to toggle world limits
+  // total: Max mobs in the world (-1 for unlimited)
+  // removal_type: "kill" (silent) or "kill" (drops loot)
+  "world_limits": {
+    "enabled": true,
+    "total": -1, // Total mobs allowed in the world
+    "removal_type": "despawn",
+    "mobs": {
+      "minecraft:hostile":100
+    }
+  },
+
+  // Per-chunk mob limits
+  // enabled: true/false to toggle chunk limits
+  // default.limit: Default mob cap per chunk (-1 for unlimited)
+  // removal_type: "despawn" (silent) or "kill" (drops loot)
+  "chunk_limits": {
+    "enabled": true,
+    "removal_type": "kill",
+    "default": { "limit": 150 }, // Default limit for unspecified mobs
+    "mobs": {
+      "minecraft:hostile": 25
+  }
+}

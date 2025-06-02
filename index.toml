@@ -9,6 +9,10 @@ file = "config/iceandfire-common.toml"
 hash = "dc7cbb8d8ea40ab7828e06a528faff59acc160ded1cb28461619fa2e2f498f1e"
 
 [[files]]
+file = "config/moblimiter.json5"
+hash = "35b825c18747c12a0076de63deed79d457155bc4415f899262dbd5872b17eef0"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "1d0321eb53f81ec137d83de6fe3313fcae367447a3045beb16d34061da5a1712"
 
@@ -937,11 +941,6 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "782e93dadc96d37803987d33c91155d7ad4be1bad1f9fda02d2c50dd29f7972a"
-metafile = true
-
-[[files]]
-file = "mods/realistic-bees.pw.toml"
-hash = "f217d22c5b38f5269cbe5bc3c1224ba7843ccea997c73b1576231cfa36e24722"
 metafile = true
 
 [[files]]
