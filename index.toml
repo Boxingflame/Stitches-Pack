@@ -10,7 +10,7 @@ hash = "dc7cbb8d8ea40ab7828e06a528faff59acc160ded1cb28461619fa2e2f498f1e"
 
 [[files]]
 file = "config/moblimiter.json5"
-hash = "35b825c18747c12a0076de63deed79d457155bc4415f899262dbd5872b17eef0"
+hash = "bc283fd122b407df1da4ce847ce09fd9a18d67ae2c3d4bac38d6dfc58e836651"
 
 [[files]]
 file = "config/quark-common.toml"
