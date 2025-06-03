@@ -13,6 +13,10 @@ file = "config/moblimiter.json5"
 hash = "bc283fd122b407df1da4ce847ce09fd9a18d67ae2c3d4bac38d6dfc58e836651"
 
 [[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "c0886482145b03520b66eb92c8c02a13edd5672ef23567e4f4cb487435b378ea"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "1d0321eb53f81ec137d83de6fe3313fcae367447a3045beb16d34061da5a1712"
 
