@@ -313,6 +313,11 @@ hash = "831baf6a97f6696ad78c3d0530eb29ea25644c6c521e2005e282869fd6f107bd"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "955f26b4395dfd23edbad828e9deaa60957b7cdfe604d47c5fe4e46df2800fe5"
+metafile = true
+
+[[files]]
 file = "mods/create-food.pw.toml"
 hash = "baff1f454e1db7ac2d8a4b97a5950b87f39b48972d098f4b466805eb64223304"
 metafile = true
@@ -738,6 +743,11 @@ hash = "9da3c3ee66453579523127d0cbeffde27dd0eaf1bb9ae3017805d475451c2e53"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
+metafile = true
+
+[[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "9a90fc9230294c0ab15874a7a78b5e991f43d3ad765b19e0139d7453848d1897"
 metafile = true
@@ -930,6 +940,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "5f5ee7f47eb5f9b136ad86085a97c742b3a3365524f26cc6477fa44d6d4c9381"
+metafile = true
+
+[[files]]
+file = "mods/oddities.pw.toml"
+hash = "03ac5e26a8d441aabf133caeb92a1837d3266118327ea44dc2864ee459376c0b"
 metafile = true
 
 [[files]]

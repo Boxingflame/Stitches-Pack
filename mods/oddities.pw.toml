@@ -1,0 +1,13 @@
+name = "Oddities"
+filename = "oddities_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2lt1x7WJ/versions/vyZYj9md/oddities_1.20.1.jar"
+hash-format = "sha512"
+hash = "9d3ad5ae3a9369589fd3e02ff01a12f3d9b4b12a981bc60b9394f51dbc7cf5ead326e15685bfb1816cbcfccde54f59e8b11c025d7b01ed5a1e9fc2f0eb499162"
+
+[update]
+[update.modrinth]
+mod-id = "2lt1x7WJ"
+version = "vyZYj9md"
