@@ -448,6 +448,11 @@ hash = "3165afe83f6d363dee5ce823f16bd017f3575476052f4af325ddf2aa0ffe41e9"
 metafile = true
 
 [[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "31663236e002ec6e7e52c292c4c7d8673b7316856db02258dd45954ab50e827d"
+metafile = true
+
+[[files]]
 file = "mods/create-vintage-improvements.pw.toml"
 hash = "ecd4efb7bc54aa1085ccaed538767802602d9fd5271d2d4827a930475914b66d"
 metafile = true
