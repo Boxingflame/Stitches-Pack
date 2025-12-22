@@ -93,6 +93,11 @@ hash = "bba973b668836fb3e093369b26d0d84dffd5c03079d91f1cab6602aa91c86ef7"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "e1a222c5ace6d1b4bab067b1245e460179a153f1e7bc8538335056fa8442155c"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "4fe7367f9c2966e59db30ae8c1043225302923b1b932c06fba8423e74d754ef9"
 metafile = true
@@ -253,6 +258,11 @@ hash = "f53cbce061f8b1a875bc4ed6419491424778dce5f069c3d7b2b59d46f42b63f0"
 metafile = true
 
 [[files]]
+file = "mods/clockwork_mod.pw.toml"
+hash = "fbca82989d4b051f4c1ad3f7a4da8178d70947ad9e388720b752b83f7b2c06f4"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
 metafile = true
@@ -315,6 +325,11 @@ metafile = true
 [[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "b67d293753fd84920408ddfd0507dc2d6e4f83f6b4958882c77b961efdedb82b"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "0cca109c76c8f9fa63328a0066758f9508bdecf1e4571562d3460ce95f0b710b"
 metafile = true
 
 [[files]]
@@ -578,6 +593,11 @@ hash = "21b14c54b6ab889ee048f894ef0de763fbb406fa1c2e11fe178442db70e00813"
 metafile = true
 
 [[files]]
+file = "mods/eidolonrepraised.pw.toml"
+hash = "a8f93a4240d22fbbee7e9fa6dfe9a9dab994773fac8e7619353396e74fb772b2"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "2a4e32365b962f7857d6003af7abee398a92919a5b3ddcd2a51ab9359b80865a"
 metafile = true
@@ -793,6 +813,11 @@ hash = "9a90fc9230294c0ab15874a7a78b5e991f43d3ad765b19e0139d7453848d1897"
 metafile = true
 
 [[files]]
+file = "mods/knight-lib.pw.toml"
+hash = "b02bf0afbb529098cc7f3baf21618e67bc621651f4946d196aa174c57841abb5"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "ed461d699dfadb76e5b38cf39d1eea7c35221db5587a35bf38499782b6f98160"
 metafile = true
@@ -825,11 +850,6 @@ metafile = true
 [[files]]
 file = "mods/lootery.pw.toml"
 hash = "a80b6171f1361dcfa5082efe706f57b626fe1d1f4ee809aff71fca3931fc0acf"
-metafile = true
-
-[[files]]
-file = "mods/luminous-tag.pw.toml"
-hash = "c7b9cf14baf17881f1288c30aabf2ebd546f0a1237e93199ca1ca5b67edbf48b"
 metafile = true
 
 [[files]]
@@ -1193,13 +1213,13 @@ hash = "5bdad080e20ae098141f62a3e98e188d1b42bc91004048dfb04d8772017c51e8"
 metafile = true
 
 [[files]]
-file = "mods/the-luminous-mod.pw.toml"
-hash = "12f2b6eb8a065f6d8970f4232b01a252cd364e9a013ad7af5654b1a60d33e780"
+file = "mods/the-orb-of-dominance-mod.pw.toml"
+hash = "b1f0596096b4f1ed7541d7367525512cac1a1da93387bd4a915526c6a3a854fc"
 metafile = true
 
 [[files]]
-file = "mods/the-orb-of-dominance-mod.pw.toml"
-hash = "b1f0596096b4f1ed7541d7367525512cac1a1da93387bd4a915526c6a3a854fc"
+file = "mods/torchmaster.pw.toml"
+hash = "1af7144283e6f5fd861b9b4cb55fa12bde4e3fdfbcbc457391c6a70ec4a236c8"
 metafile = true
 
 [[files]]
