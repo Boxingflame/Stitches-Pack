@@ -258,11 +258,6 @@ hash = "f53cbce061f8b1a875bc4ed6419491424778dce5f069c3d7b2b59d46f42b63f0"
 metafile = true
 
 [[files]]
-file = "mods/clockwork_mod.pw.toml"
-hash = "fbca82989d4b051f4c1ad3f7a4da8178d70947ad9e388720b752b83f7b2c06f4"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5ac32407263c973bebc5aee61fe000d29d9879020fafb6631581396b64e55dfe"
 metafile = true
@@ -810,11 +805,6 @@ metafile = true
 [[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "9a90fc9230294c0ab15874a7a78b5e991f43d3ad765b19e0139d7453848d1897"
-metafile = true
-
-[[files]]
-file = "mods/knight-lib.pw.toml"
-hash = "b02bf0afbb529098cc7f3baf21618e67bc621651f4946d196aa174c57841abb5"
 metafile = true
 
 [[files]]
