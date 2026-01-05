@@ -1298,6 +1298,11 @@ hash = "af899e29bf80eda256b98f32321a9ac8dacf29c16e71825af6f240dd267ba1b6"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "a09a51b24ffb5a20ca1f1b0751061515de977f00bc047c67b316c095a92d577c"
+metafile = true
+
+[[files]]
 file = "mods/wwoo.pw.toml"
 hash = "290621ae12ef318d4b29f52bfc05a8491104a04174513f7553140a344268ea61"
 metafile = true
