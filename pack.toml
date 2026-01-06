@@ -1,12 +1,12 @@
 name = "Stitches Pack"
 author = "Stitches"
-version = "1.2.9"
+version = "1.2.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a5e857c6c1be64941953aa237b148b921bea36720441ddc08a1d10b3468117c1"
+hash = "7e466aa0318a4ef6dc27d209c16377774b2594dade35129fce1e609c313581f0"
 
 [versions]
 forge = "47.4.0"

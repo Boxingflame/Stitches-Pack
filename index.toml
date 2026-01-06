@@ -63,6 +63,11 @@ hash = "c06c0dbe9c7b955f483deb0f0e6ea6824546b5983a6e0cb48ab4356fd0e3613c"
 metafile = true
 
 [[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "e380187cf1daf27828ecba14a0752da077a84a588c8a46bf93eb7e3e7d41a386"
+metafile = true
+
+[[files]]
 file = "mods/aeroblender.pw.toml"
 hash = "5ecef38011903ef9f4407db64fc55601f4290b49b5cc3402e9f48c4086eee427"
 metafile = true
@@ -115,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/applied-botanics.pw.toml"
 hash = "9c63cd15639eb8bf581976828c7c0604ca58f210f1a895b87d36b0a618c143e0"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "1957188054efa433e3d314b0386e290bdb2354ff38e4982d102724ff0e2a74c4"
 metafile = true
 
 [[files]]
@@ -185,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/big-contraptions.pw.toml"
 hash = "928863e6ef95c4c2cba88178a3ef24e19e546b9648d2f740baf0a1724fd096a0"
+metafile = true
+
+[[files]]
+file = "mods/bigger-ae2.pw.toml"
+hash = "3dd25cd13c8365c6bf8f0164c657787ecffc75095f2a5df2ce21af5094faf3ae"
 metafile = true
 
 [[files]]
@@ -825,6 +840,11 @@ metafile = true
 [[files]]
 file = "mods/leave-my-bars-alone.pw.toml"
 hash = "f3d5d2453b2bb4965d9531be60ea4488d0da57592c988637d0247c5cead988ea"
+metafile = true
+
+[[files]]
+file = "mods/little-logistics.pw.toml"
+hash = "d52e67ecdaba130d0d672588bffed7bc8818c33857b8a350c24e91868d5c0388"
 metafile = true
 
 [[files]]
