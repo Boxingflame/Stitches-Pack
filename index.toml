@@ -43,6 +43,16 @@ hash = "505595b98fe41c5e7af4eccbe786514478d1f41684672c938c89d05074fc923f"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "55e232b2b338b82694a947ed32882e45589721893948eadb4913796872fd64ec"
+metafile = true
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "5e727d91523c52e5056a57556d63118fe26802d824668c662195c8abf762a265"
+metafile = true
+
+[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "69de722bcd965e2a206dc8ac1c2b58abc3efd6324c988247f72c3f6ac9063943"
 metafile = true
@@ -803,6 +813,11 @@ hash = "794ed8c4cd7fd8372e8e5af82c291244449f3d77afcd732cadc0e96361ee6856"
 metafile = true
 
 [[files]]
+file = "mods/jaffabricate.pw.toml"
+hash = "35993c9065e2eba82168f5400f46d36d525431b07c9b111560eb0852ad01876f"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "19534e9bac78b0678bc7037c462a1157459b881fababa769e825461fe163f43d"
 metafile = true
@@ -913,6 +928,11 @@ hash = "0fc3abbd693fc86f89b7ce6eaeab1fadc414bcca8a4de3de99204a9f55050039"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-ad-astra-ores.pw.toml"
+hash = "d9fe7e82f9fb2e85886b98fae5dfd96d819c33fcf1a51fe9eb76f3696dee327b"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "83f17036614f1b2257ef221d47082a8816cd67358eec8a0c21e8a91415e8d17a"
 metafile = true
@@ -980,6 +1000,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "8af9d98d9a182281861dd34eb763b1b7846760acd9e4f477f7131f58e3da67b0"
+metafile = true
+
+[[files]]
+file = "mods/more-mekanism-processing.pw.toml"
+hash = "d5c1200727d45146364090a52486215190bcdbda62931620b224c2375af74663"
 metafile = true
 
 [[files]]
@@ -1225,6 +1250,11 @@ metafile = true
 [[files]]
 file = "mods/the-orb-of-dominance-mod.pw.toml"
 hash = "b1f0596096b4f1ed7541d7367525512cac1a1da93387bd4a915526c6a3a854fc"
+metafile = true
+
+[[files]]
+file = "mods/tiny-dragons.pw.toml"
+hash = "46661719d124abdb896067618be20677af5dbd61cc8e6d41285ddff53085b8df"
 metafile = true
 
 [[files]]

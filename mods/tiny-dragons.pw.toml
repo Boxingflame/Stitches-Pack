@@ -1,0 +1,13 @@
+name = "Tiny Dragons"
+filename = "rpg_companions_tiny_dragons-0.0.5-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XzVY6HIJ/versions/Rg7E2JyZ/rpg_companions_tiny_dragons-0.0.5-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "2289ccb272cbb301e84d2871e734ce521ba6b6554a13f8ab15d9cc17fe908eea54aeb79aa332de3905dfdf8949f5ddfd521fb7ea25fed1256ebd608685fd0933"
+
+[update]
+[update.modrinth]
+mod-id = "XzVY6HIJ"
+version = "Rg7E2JyZ"
