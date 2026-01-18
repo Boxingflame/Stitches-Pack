@@ -5,6 +5,22 @@ file = "config/aether-client.toml"
 hash = "01733d70a20b8996a1339952f715e74cc3a6abc94035a4166534a4afdbfc4662"
 
 [[files]]
+file = "config/almostunified/debug.json"
+hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "40639e8cb9e9ea52b8557c50d29fc06e73e2ad1e7ca27ae5ce8fe2eca2e97188"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "37d5936b6833251301222df3f8c9feadb5998099cb95425e412839e580d17801"
+
+[[files]]
 file = "config/iceandfire-common.toml"
 hash = "dc7cbb8d8ea40ab7828e06a528faff59acc160ded1cb28461619fa2e2f498f1e"
 
@@ -25,6 +41,10 @@ file = "config/sparsestructures.json5"
 hash = "459991eab04e55687cdbed56903c671cf3a358c3d0d3a33cc691075e6ad4a644"
 
 [[files]]
+file = "config/unify.json"
+hash = "37d5936b6833251301222df3f8c9feadb5998099cb95425e412839e580d17801"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "58aa78d6d560149ea25cfe03d9e5e3c8faea56e41cdfa5e527f287b55dcefd74"
 
@@ -40,11 +60,6 @@ metafile = true
 [[files]]
 file = "mods/accessories.pw.toml"
 hash = "505595b98fe41c5e7af4eccbe786514478d1f41684672c938c89d05074fc923f"
-metafile = true
-
-[[files]]
-file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "55e232b2b338b82694a947ed32882e45589721893948eadb4913796872fd64ec"
 metafile = true
 
 [[files]]
