@@ -1068,11 +1068,6 @@ hash = "5f5ee7f47eb5f9b136ad86085a97c742b3a3365524f26cc6477fa44d6d4c9381"
 metafile = true
 
 [[files]]
-file = "mods/oddities.pw.toml"
-hash = "03ac5e26a8d441aabf133caeb92a1837d3266118327ea44dc2864ee459376c0b"
-metafile = true
-
-[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "720929c1c19a3009e0d454d7de8d08f5e0c2e4c13cbe1f87ff948146a1ee3210"
 metafile = true
