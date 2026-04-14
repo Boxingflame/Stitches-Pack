@@ -823,6 +823,11 @@ hash = "45cbe5240c7d30d141494ff4cf3683aedfa99e3d12e55e007b6368bd258f7620"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+hash = "c280e2b0fec3014a909c19bb654492d58d7c272307e2a2920f13125016a2d8eb"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "024a28f4eacc3b75f1e268511894639548a4debbbaf61ddba4431633290c8237"
 metafile = true
@@ -1295,6 +1300,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "1af7144283e6f5fd861b9b4cb55fa12bde4e3fdfbcbc457391c6a70ec4a236c8"
+metafile = true
+
+[[files]]
+file = "mods/trackwork.pw.toml"
+hash = "28be4cbc383219609173f427c918e0593e98498accd31fdb923ab00d8e6cbe3d"
 metafile = true
 
 [[files]]
