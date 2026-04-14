@@ -1,0 +1,13 @@
+name = "No Zombie Horse ❌"
+filename = "no-zombie-horse-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mKJSZwb7/versions/QLxEET1w/no-zombie-horse-1.0.jar"
+hash-format = "sha512"
+hash = "85110772c514e7517bf221b536ea121e611828a1285df3853528403cee100bda13d505546a3edd349927a0aa8751044b2d9352fa19463c92e218886167d87ad6"
+
+[update]
+[update.modrinth]
+mod-id = "mKJSZwb7"
+version = "QLxEET1w"

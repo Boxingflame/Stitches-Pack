@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "4fe7367f9c2966e59db30ae8c1043225302923b1b932c06fba8423e74d754ef9"
+hash = "b864dd9e5276c10cae60b31987af8ce757ae08ab18f3f39d78e1777d174c613e"
 metafile = true
 
 [[files]]
@@ -365,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "0cca109c76c8f9fa63328a0066758f9508bdecf1e4571562d3460ce95f0b710b"
+metafile = true
+
+[[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "d31c742e6dacf85d60415a75dbbe70e68ce17839ceeec858235f599606ab4632"
 metafile = true
 
 [[files]]
@@ -675,6 +680,11 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "bd2b62e4397f57220ddf4d862b5c6d87de3192b4ff4da14e9f5d00029ed13c48"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "d87a2ef4b990dc9d189ca15e07394e82266773dee1e3c4e5b4d8b662d56ed03b"
 metafile = true
 
 [[files]]
@@ -1014,7 +1024,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8af9d98d9a182281861dd34eb763b1b7846760acd9e4f477f7131f58e3da67b0"
+hash = "57e241244ef6f91816528751eae795c2b95fecb48746abd4af55481f3ab79ecb"
 metafile = true
 
 [[files]]
@@ -1040,6 +1050,16 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
+file = "mods/no-skeleton-horse.pw.toml"
+hash = "4e0b3306827c834db21908ce60a0b344c18f812978c13d666f7a3934ba6c4f06"
+metafile = true
+
+[[files]]
+file = "mods/no-zombie-horse.pw.toml"
+hash = "fb919c00667b30fd8ee82013d95eb2a9c1d85e827452cb8c4d4866febb282c1f"
 metafile = true
 
 [[files]]
@@ -1099,7 +1119,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "6c7fad08ba7d394ff9b5ddeff53bd54c8438f04811d6cd6bf89a6cad70fe7f56"
+hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
 metafile = true
 
 [[files]]
@@ -1203,6 +1223,11 @@ hash = "4efed6f4751e33616f8bfed365052e1bc90b12bce3ffdcb43a8a653d6183e5b0"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "d79e93a1dd605de7ba7cd5dee1ac5aa1b69ab29ede6bc1ca5fb842a8360ce8df"
 metafile = true
@@ -1239,7 +1264,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "29fde27307d689fecab3bea5300c2d25ae354caca4b974c0a7b47db78b5ba760"
+hash = "71f5447cc88aaa5d1f4a494cbebc9ecb3aa268c1fd4fa2931371a0763c0a09dc"
 metafile = true
 
 [[files]]
@@ -1290,6 +1315,11 @@ metafile = true
 [[files]]
 file = "mods/unionlib.pw.toml"
 hash = "9f4ae94a6b14f7edaacbebde14ffaa90fc3135f56e2dbe1eaf67650df75b0946"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "19e61336196413472f8d425a6ebbd51edb4dd32920839ddcec14fbede1546a20"
 metafile = true
 
 [[files]]
